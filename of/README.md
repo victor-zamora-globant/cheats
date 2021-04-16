@@ -10,7 +10,7 @@ Common markdown formatting options:
 
 *italic* for italic
 
-``` for a code block
+``` for a code block  ```
 
 [this is link text](www.atlassian.com) for this is link text
 
